@@ -6,4 +6,4 @@
 
 - :mailbox: Reach me on [LinkedIn](https://www.linkedin.com/in/weronica-green/)
 
-- 🎓 Repositories contain some of my old university projects. 
+- 🎓 Repositories contain some of projects from my [Master in Data Science from University of San Francisco (2020)](https://www.usfca.edu/arts-sciences/programs/graduate/data-science)

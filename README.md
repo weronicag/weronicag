@@ -2,13 +2,22 @@
 
 **About me**
 
-- :briefcase: Data Scientist at [Lemonade](https://www.lemonade.com/)
+- 🔭 I’m currently working **as a Data Scientist at Lemonade.**
 
-- :telescope: Check out my [GitHub Page](https://weronicag.github.io/)
+- 📄 Know about my experiences **check out my GitHub Page.**
 
-- :mailbox: Reach me on [LinkedIn](https://www.linkedin.com/in/weronica-green/)
+- 💬 Ask me about **my favorite topic - anything Data Science or Machine Learning related.**
 
-- 🎓 Repositories contain some of projects from my [Master in Data Science from University of San Francisco (2020)](https://www.usfca.edu/arts-sciences/programs/graduate/data-science)
+
+**Background**
+
+I graduated from the University of San Francisco with a Master of Science in Data Science and a Bachelor of Arts in Business Administration from Brooklyn College. I currently work as a Data Scientist at Lemonade; Here, I design, build, and deploy various machine learning models end-to-end. I enjoy working on all stages of the data science lifecycle and have experience working on a broad range of data-driven solutions, including Computer Vision, Risk / Fraud Models, and Pricing Optimization.
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/weronica-green" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="weronica-green" height="30" width="40" /></a>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>

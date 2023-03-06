@@ -1,18 +1,11 @@
 # Hi, I'm Weronica 👋
-
 **About me**
 
-- 🔭 I’m currently working **as a Data Scientist at Lemonade.**
-
-- 📄 Know about my experiences **check out my GitHub Page.**
-
-- 💬 Ask me about **my favorite topic - anything Data Science or Machine Learning related.**
-
+Welcome to my portfolio! Here, you can discover my projects during my Data Science Master's program at the University of San Francisco and get insights into my current role as a Data Scientist at Lemonade.
 
 **Background**
 
-I graduated from the University of San Francisco with a Master of Science in Data Science and a Bachelor of Arts in Business Administration from Brooklyn College. I currently work as a Data Scientist at Lemonade; Here, I design, build, and deploy various machine learning models end-to-end. I enjoy working on all stages of the data science lifecycle and have experience working on a broad range of data-driven solutions, including Computer Vision, Risk / Fraud Models, and Pricing Optimization.
-
+I hold a Master of Science in Data Science from the University of San Francisco and a Bachelor of Arts in Business Administration from Brooklyn College. I currently work as a Data Scientist at Lemonade, where I work on end-to-end design, development, and deployment of machine learning models. With a passion for all aspects of the data science lifecycle, I possess extensive experience in creating data-driven solutions across various domains using algorithms such as GLMs (Generalized Linear Models), Boosted Trees (XGBoost), and Computer Vision (PyTorch / ResNet).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
